@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WireMockPOC.Tests": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "App__ApiEndpoint": "http://localhost:7777"
+      }
+    }
+  }
+}
